@@ -1,1 +1,2 @@
 # Movie-Recommender-System_Python
+Building a content-based movie recommender system involves recommending movies based on their features and attributes. Here are some objectives you can consider for creating a content-based movie recommender system in Python and Implement algorithms to calculate the similarity between movies based on their features. Common methods include cosine similarity for text data .

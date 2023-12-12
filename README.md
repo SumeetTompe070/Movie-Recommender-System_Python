@@ -11,3 +11,7 @@ Feature Extraction:Extract relevant features from the dataset, such as movie gen
 Text Vectorization:Convert text data (e.g., plot summaries) into numerical vectors using techniques like TF-IDF or word embeddings.
 
 Similarity Calculation:Use similarity metrics (e.g., cosine similarity) to calculate the similarity between movies based on their features.
+
+Data Visualization: Utilize libraries like Matplotlib, Seaborn, and Plotly for creating various types of plots.
+
+Visualize trends, patterns, and insights in data through graphs and charts.
